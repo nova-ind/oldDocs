@@ -51,3 +51,6 @@ nav_order: 0
 #### Others
 
 [coreUtil](Libs/core/index.md) - the minimal utils required by all of NovaOS
+
+## Systems architecture
+![](./systems architectrue.svg)
