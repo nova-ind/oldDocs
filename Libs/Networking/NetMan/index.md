@@ -1,0 +1,4 @@
+---
+title: NovaNetMan
+layout: home
+---

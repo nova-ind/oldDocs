@@ -1,0 +1,4 @@
+---
+title: NovaWeb
+layout: home
+---

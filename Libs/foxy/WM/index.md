@@ -1,0 +1,4 @@
+---
+title: FoxyWM
+layout: home
+---

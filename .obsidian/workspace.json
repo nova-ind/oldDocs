@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "c8d0612eb73bb576",
+    "type": "split",
+    "children": [
+      {
+        "id": "148ece1c09083ac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1a6ec8ae34f82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libs/core/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17bfec6f30a32d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ccb185e77628856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12254e10ee008a1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb054074112be2a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ecca9080ff9c350",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d8cd68210cf2c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb678ee1390823c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36842399c0dff33b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Libs/core/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d46cddfb7a2c8a12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Libs/core/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea60ef1cc01ae1cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe1463ea55882efd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Libs/core/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff1a6ec8ae34f82c",
+  "lastOpenFiles": [
+    "index.md",
+    "Libs/core/index.md",
+    "Libs/core",
+    "Libs/DE/Cursorless/index.md",
+    "Libs/DE/Cursorless",
+    "Libs/DE/Touch/index.md",
+    "Libs/DE/Touch",
+    "Libs/DE/Desktop/index.md",
+    "Libs/DE/Desktop",
+    "Libs/DE",
+    "Libs/wm/Remote/index.md",
+    "Libs/wm/Remote",
+    "Libs/wm/Single/index.md",
+    "Libs/wm/Single",
+    "Libs/wm/Proxy/index.md",
+    "Libs/wm/Proxy",
+    "Libs/wm",
+    "Libs/foxy/WM/index.md",
+    "Libs/foxy/WM",
+    "Libs/foxy/FS/index.md",
+    "Libs/Networking/Cast/index.md",
+    "Libs/Networking/Drop/index.md",
+    "Libs/Networking/svc/index.md",
+    "Libs/Networking/NetMan/index.md",
+    "Libs/Networking/Web/index.md",
+    "Libs/Networking/Net/index.md",
+    "README.md"
+  ]
+}

@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: NovaOS Documentation
+description: All the documentation for this hot mess called NovaOS
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://os.novafurry.win/docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Edit on GitHub: http://github.com/NovaOS-Hub/docs
+  NovaOS on Github: http://github.com/NovaOS-Hub
