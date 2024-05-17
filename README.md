@@ -7,7 +7,6 @@ nav_order: 0
 
 # NovaOS Documentation
 ## Table of contents (for those viewing on GitHub)
-### NovaOS Core Libraries (what makes NovaOS Work)
 #### Networking
 
 [NovaNet](Libs/Networking/Net/index.md) - NovaOS Networking Client - Facilitates P2P
