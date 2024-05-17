@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: home
+permalink: /
+nav_order: 0
 ---
 
 # NovaOS Documentation

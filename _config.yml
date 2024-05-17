@@ -1,7 +1,8 @@
 title: NovaOS Documentation
 description: All the documentation for this hot mess called NovaOS
 theme: just-the-docs
-
+plugins:
+  - jekyll-redirect-from
 url: https://os.novafurry.win/docs
 
 aux_links:
