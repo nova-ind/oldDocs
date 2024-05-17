@@ -7,7 +7,6 @@ nav_order: 0
 
 # NovaOS Documentation
 ## Table of contents (for those viewing on GitHub)
-### NovaOS Core Libraries (what makes NovaOS Work)
 #### Networking
 
 [NovaNet](Libs/Networking/Net/index.md) - NovaOS Networking Client - Facilitates P2P
@@ -52,3 +51,6 @@ nav_order: 0
 #### Others
 
 [coreUtil](Libs/core/index.md) - the minimal utils required by all of NovaOS
+
+## Systems architecture
+![](./systems architectrue.svg)
